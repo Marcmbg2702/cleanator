@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <title>Cleanator</title>
+  <rect width="120" height="120" rx="26" fill="#052E2B"/>
+  <g transform="translate(12 12) scale(.8)">
+  <defs><linearGradient id="cleanator-g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#059669"/></linearGradient></defs>
+  <path d="M60 8L100 22V56C100 82 83 102 60 112C37 102 20 82 20 56V22Z" fill="url(#cleanator-g)"/>
+  <path d="M60 18L90 29V56C90 76 78 92 60 101" fill="none" stroke="#ECFDF5" stroke-opacity=".35" stroke-width="3" stroke-linecap="round"/>
+  <polyline points="40,60 54,74 81,45" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
