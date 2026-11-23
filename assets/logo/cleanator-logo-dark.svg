@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="600" height="160">
+  <title>Cleanator</title>
+  <rect width="600" height="160" rx="20" fill="#052E2B"/>
+  <g transform="translate(24 20)">
+  <defs><linearGradient id="cleanator-g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#059669"/></linearGradient></defs>
+  <path d="M60 8L100 22V56C100 82 83 102 60 112C37 102 20 82 20 56V22Z" fill="url(#cleanator-g)"/>
+  <path d="M60 18L90 29V56C90 76 78 92 60 101" fill="none" stroke="#ECFDF5" stroke-opacity=".35" stroke-width="3" stroke-linecap="round"/>
+  <polyline points="40,60 54,74 81,45" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="168" y="88" font-family="Archivo, 'Archivo Black', 'Arial Black', 'Segoe UI', sans-serif" font-weight="900" font-size="54" letter-spacing="1" fill="#ECFDF5">CLEANATOR</text>
+  <text x="171" y="118" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="4" fill="#34D399">PC PROTÉGÉ, PC PROPRE</text>
+</svg>
